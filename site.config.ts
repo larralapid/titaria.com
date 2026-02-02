@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: "Tita Ria's Recipes"
+  name: "Tita Ria's Recipes",
   domain: 'titaria.com',
   author: 'Ria Lapid',
 
